@@ -1,3 +1,3 @@
-package org.example.java21;
+package releases.java21;
 
 public record Point(int x, int y) {}

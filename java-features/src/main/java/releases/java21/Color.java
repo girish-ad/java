@@ -1,4 +1,4 @@
-package org.example.java21;
+package releases.java21;
 
 public enum Color {
     RED, GREEN, BLUE

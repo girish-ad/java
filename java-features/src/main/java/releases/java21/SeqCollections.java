@@ -1,6 +1,5 @@
-package org.example.java21;
+package releases.java21;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.SequencedCollection;
 

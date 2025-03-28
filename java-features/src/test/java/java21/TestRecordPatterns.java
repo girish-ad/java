@@ -1,9 +1,9 @@
 package java21;
 
-import org.example.java21.Color;
-import org.example.java21.ColoredPoint;
-import org.example.java21.Point;
-import org.example.java21.RandomPoint;
+import releases.java21.Color;
+import releases.java21.ColoredPoint;
+import releases.java21.Point;
+import releases.java21.RandomPoint;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
