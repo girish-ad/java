@@ -6,6 +6,10 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.SequencedCollection;
 
+/**
+ * Tests the {@link java.util.SequencedCollection}
+ * @see <a href="https://openjdk.org/jeps/431">jep 431</a>
+ */
 public class TestSequenceCollections {
 
     @Test
